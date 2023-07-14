@@ -16,7 +16,7 @@ This project aims to use some tools and practical skills studied on the Cubos Ac
 
 - [Access the Project](https://zeneiltongpdev.github.io/hello-world-js/)
 
-![Button Operation](https://github.com/zeneiltongpdev/hello-world-js/blob/main/images/demo.gif?raw=true)
+![Button Operation](https://github.com/zeneiltongpdev/hello-world-js/blob/main/images/demo2.gif?raw=true)
 
 ## 🆑Clone:
 
